@@ -1,0 +1,3 @@
+<apex:page controller="HelloWorldController" action="{!pageAction}">
+	<apex:messages/>
+</apex:page>
